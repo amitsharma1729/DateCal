@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateCal</string>
+    <string name="title_activity_button2">Button2Activity</string>
+    <string name="title_activity_button3">Button3Activity</string>
+</resources>
